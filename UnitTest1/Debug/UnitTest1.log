@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+D:\Patiuk\AP\lab_2\labs11\lab11.3_B\Project1\Project1.cpp(178,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  UnitTest1.vcxproj -> D:\Patiuk\AP\lab_2\labs11\lab11.3_B\Project1\Debug\UnitTest1.dll
